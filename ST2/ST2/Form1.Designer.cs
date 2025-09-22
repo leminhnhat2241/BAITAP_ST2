@@ -40,9 +40,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(147, 95);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 16);
+            this.label1.Size = new System.Drawing.Size(98, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "UserName";
+            this.label1.Text = "Tên đăng nhập";
             // 
             // txt_username
             // 
@@ -63,15 +63,15 @@
             this.Password.AutoSize = true;
             this.Password.Location = new System.Drawing.Point(147, 154);
             this.Password.Name = "Password";
-            this.Password.Size = new System.Drawing.Size(74, 16);
+            this.Password.Size = new System.Drawing.Size(61, 16);
             this.Password.TabIndex = 2;
-            this.Password.Text = "Password2";
+            this.Password.Text = "Mật khẩu";
             // 
             // btnlogin
             // 
             this.btnlogin.Location = new System.Drawing.Point(312, 268);
             this.btnlogin.Name = "btnlogin";
-            this.btnlogin.Size = new System.Drawing.Size(75, 23);
+            this.btnlogin.Size = new System.Drawing.Size(75, 28);
             this.btnlogin.TabIndex = 4;
             this.btnlogin.Text = "login";
             this.btnlogin.UseVisualStyleBackColor = true;
