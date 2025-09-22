@@ -69,12 +69,13 @@
             // 
             // btnlogin
             // 
-            this.btnlogin.Location = new System.Drawing.Point(335, 262);
+            this.btnlogin.Location = new System.Drawing.Point(265, 236);
             this.btnlogin.Name = "btnlogin";
             this.btnlogin.Size = new System.Drawing.Size(152, 28);
             this.btnlogin.TabIndex = 4;
             this.btnlogin.Text = "Đăng nhập";
             this.btnlogin.UseVisualStyleBackColor = true;
+            this.btnlogin.Click += new System.EventHandler(this.btnlogin_Click_1);
             // 
             // frm_dangnhap
             // 
